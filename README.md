@@ -1,3 +1,4 @@
+
 # Simulador-de-Ataque
 Simulação de Ataque com Medusa e Kali Linux.      
 Projeto prático desenvolvido durante o Bootcamp Santander Cibersegurança
@@ -9,7 +10,7 @@ nano password.txt
 
 ## 2° -Depois digite:
 "medusa -h 192.168.56.103 -U user.txt -P password.txt -M ssh -f -O conta.txt"
-
+<img width="842" height="413" alt="medusa" src="https://github.com/user-attachments/assets/e606e65c-3ed1-4ed5-adfb-c6bab0bec56d" />
 O que significa:    
 ```
 -h 192.168.56.103 = Ip alvo      
@@ -21,3 +22,5 @@ O que significa:
 ```
 ## 3° - Visualizar o resultado encontrado
 nano conta.txt
+<img width="845" height="417" alt="conta" src="https://github.com/user-attachments/assets/f1007151-808b-4dd2-8a05-67a0ebadf5dc" />
+
